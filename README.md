@@ -501,7 +501,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in SQL.*
 
-* [alihacks/advent-of-code]
+* [alihacks/advent-of-code](https://github.com/alihacks/advent-of-code)
 
 
 
